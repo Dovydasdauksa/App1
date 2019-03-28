@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Colors</string>
+    <string name="name">Aurelija Budvytyte</string>
+    <string name="contGreen">Color Green</string>
+    <string name="contRed">Color Red</string>
+    <string name="contBlue">Color Blue</string>
+    <string name="contYellow">Color Yellow</string>
+    <string name="buttonGreen">GREEN</string>
+    <string name="buttonRed">RED</string>
+    <string name="buttonBlue">BLUE</string>
+    <string name="buttonYellow">YELLOW</string>
+</resources>
